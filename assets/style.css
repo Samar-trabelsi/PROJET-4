@@ -222,10 +222,7 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
-visually-hidden{
-    color: #ffffff !important; 
-    background-color: #000000 !important;
-}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
